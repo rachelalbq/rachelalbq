@@ -1,5 +1,21 @@
 ### Olá! Me chamo Rachel Albuquerque! 👋
 
+<br>
+
+#### Sou desenvolvedora Frontend.  Essas são as minhas skills:
+
+<br>
+
+<ul>
+<li>HTML5</li>
+<li>CSS3</li>
+<li>React</li>
+<li>Angular</li>
+<li>Bootstrap e outras bibliotecas de estilização</li>
+<li>JavaScript/Typescript</li>
+</ul>
+
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rachel-albuquerque-b2250514a/)
 
 ![Rachel GitHub stats](https://github-readme-stats.vercel.app/api?username=rachelalbq&show_icons=true&theme=dracula)
