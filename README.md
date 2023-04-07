@@ -1,6 +1,5 @@
 ### Olá! Me chamo Rachel Albuquerque! 👋
 
-<br>
 
 #### Sou desenvolvedora Frontend.  Essas são as minhas skills:
 
