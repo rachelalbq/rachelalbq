@@ -3,7 +3,6 @@
 
 #### Sou desenvolvedora Frontend.  Essas são as minhas skills:
 
-<br>
 
 <ul>
 <li>HTML5</li>
