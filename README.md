@@ -8,9 +8,12 @@
 <li>HTML5</li>
 <li>CSS3</li>
 <li>React</li>
+<li>Vue</li>
 <li>Angular</li>
 <li>Bootstrap e outras bibliotecas de estilização</li>
 <li>JavaScript/Typescript</li>
+<li>NodeJs</li>
+<li>MySQL</li>
 </ul>
 
 
