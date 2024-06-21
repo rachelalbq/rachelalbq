@@ -8,6 +8,7 @@
 <li>HTML5</li>
 <li>CSS3</li>
 <li>React</li>
+<li>Vue</li>
 <li>NextJs</li>
 <li>Angular</li>
 <li>Bootstrap e outras bibliotecas de estilização</li>
