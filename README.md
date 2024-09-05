@@ -9,7 +9,6 @@
 <li>CSS3</li>
 <li>React</li>
 <li>Vue</li>
-<li>NextJs</li>
 <li>Angular</li>
 <li>Bootstrap e outras bibliotecas de estilização</li>
 <li>JavaScript/Typescript</li>
